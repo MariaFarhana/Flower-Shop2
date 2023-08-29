@@ -7,7 +7,6 @@
     padding: 197px 972px 0px 20px;
     width: 1920px;
     height: 850px;
-    flex-shrink: 0;
     background: rgba(229, 84, 115, 0.10);
     display: flex;
     align-items: center;
@@ -20,7 +19,6 @@
 
 .pera-styles {
     color: rgba(39, 39, 39, 0.60);
-    font-family: Lato;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
@@ -29,7 +27,6 @@
 .banner-header {
     width: 700px;
     color: #272727;
-    font-family: Lato;
     font-size: 80px;
     font-weight: 800;
 }
@@ -64,7 +61,6 @@
 .section-title {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 40px;
     font-weight: 800;
 }
@@ -72,18 +68,14 @@
 .sec-des {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    /* 166.667% */
 }
 
 .sec-pic {
     width: 310px;
     height: 428px;
-    flex-shrink: 0;
     display: flex;
     gap: 150px;
     padding: 0px 0px 67px 0px;
@@ -92,12 +84,9 @@
 .pic-name1 {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 24px;
-    font-style: normal;
     font-weight: 700;
     line-height: 35px;
-    /* 145.833% */
     text-decoration-line: underline;
     padding: 32px 0px 0px 0px;
 }
@@ -105,12 +94,9 @@
 .pic-name2 {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 24px;
-    font-style: normal;
     font-weight: 700;
     line-height: 35px;
-    /* 145.833% */
     text-decoration-line: underline;
     padding: 88px 0px 0px 0px;
 }
@@ -118,12 +104,9 @@
 .pic-name3 {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 24px;
-    font-style: normal;
     font-weight: 700;
     line-height: 35px;
-    /* 145.833% */
     text-decoration-line: underline;
     padding: 25px 0px 0px 0px;
 
@@ -175,12 +158,9 @@
 .box-name1 {
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
-    font-family: Lato;
     font-size: 24px;
-    font-style: normal;
     font-weight: 600;
     line-height: 35px;
-    /* 145.833% */
     padding: 0px 0px 87px 35px;
 
 }
@@ -190,22 +170,17 @@
     text-align: center;
     font-family: Lato;
     font-size: 24px;
-    font-style: normal;
     font-weight: 600;
     line-height: 35px;
-    /* 145.833% */
 
 }
 
 .box-name3 {
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
-    font-family: Lato;
     font-size: 24px;
-    font-style: normal;
     font-weight: 100;
     line-height: 35px;
-    /* 145.833% */
 
 }
 
@@ -215,7 +190,6 @@
 .banner2 {
     width: 3022px;
     height: 620px;
-    flex-shrink: 0;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     align-items: center;
@@ -226,11 +200,8 @@
 
 .banner2-head {
     color: #272727;
-    font-family: Lato;
     font-size: 40px;
-    font-style: normal;
     font-weight: 800;
-    line-height: normal;
     padding: 230px 962px 24px 423px;
 }
 
@@ -238,22 +209,17 @@
     color: #E55473;
     font-family: Lato;
     font-size: 40px;
-    font-style: normal;
     font-weight: 800;
-    line-height: normal;
 }
 
 .banner2-text {
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    /* 166.667% */
-    padding: 0px 933px 40px 393px;
+    padding: 0px 30px 40px 393px;
 }
 
 .btn-styles2 {
@@ -264,22 +230,18 @@
     margin-left: 603px;
     border-radius: 8px;
     background: #E55473;
+    margin-bottom: 162px;
 }
 
 .button-text-styles {
     color: #FFF;
-    font-family: Lato;
     font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
 }
 
 .banner2-pic {
     width: 318px;
     height: 420px;
-    flex-shrink: 0;
-    padding: 100px 429px 100px 1175px;
+    margin-left: 5px;
 }
 
 
@@ -291,23 +253,17 @@
 .insta-haed {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 40px;
-    font-style: normal;
     font-weight: 800;
-    line-height: normal;
 }
 
 .insta-text {
     width: 594px;
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    /* 166.667% */
     padding: 20px 663px 40px 1000px;
 }
 
@@ -370,23 +326,17 @@
 .pic-haed {
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 40px;
-    font-style: normal;
     font-weight: 800;
-    line-height: normal;
     padding-top: 122px;
 }
 
 .pic-text {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    /* 166.667% */
 }
 
 .pic-input {
@@ -410,6 +360,9 @@
 
 
 /* footer created styles */
+
+
+
 footer {
     margin-top: 128px;
 }
@@ -423,17 +376,13 @@ footer {
 
 .foot-head {
     color: #E55473;
-
     font-size: 48px;
-
     font-weight: 800;
-
     padding: 128px 832px 20px 831px;
 }
 
 .foot-text {
     color: rgba(255, 255, 255, 0.90);
-
     font-size: 18px;
 
 }
@@ -446,6 +395,5 @@ footer {
 
 .last-pera {
     color: rgba(255, 255, 255, 0.40);
-
     font-size: 16px;
 }
